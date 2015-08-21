@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-rnf",
+  "version": "1.0.0",
+  "description": "RNF Digital ESLint config",
+  "main": "eslint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RNFDigital/eslint-config-rnf.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/RNFDigital/eslint-config-rnf/issues"
+  },
+  "homepage": "https://github.com/RNFDigital/eslint-config-rnf#readme"
+}
